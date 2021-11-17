@@ -3,5 +3,10 @@
         "cedula": 12345,
         "name": "Franco",
         "lastName": "Meliodas"
+    },
+    {
+        "cedula": "222222",
+        "name": "John",
+        "lastName": "Tittor"
     }
 ]
